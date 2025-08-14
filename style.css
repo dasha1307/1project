@@ -1,6 +1,6 @@
 /* Основной фон страницы */
 body {
-  background-image: url('1.jpg');
+  background-image: url('img/1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
